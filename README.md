@@ -1,1 +1,1 @@
-# https-github.com-republicofmakers-SW-CPU-Rockchip-PowerOverEthernet-24
+# SW-CPU-Rockchip-PowerOverEthernet-24
